@@ -1,0 +1,21 @@
+[project]
+name = "promoguard"
+version = "0.1.0"
+description = "Ambient promotion-integrity & loyalty agent for Australian supermarkets (ADK 2.0)"
+requires-python = ">=3.11"
+dependencies = [
+  "google-adk>=2.0.0a0",
+  "pydantic>=2.0",
+  "python-dotenv>=1.0",
+]
+
+[dependency-groups]
+dev = [
+  "pytest>=8.0",
+  "pre-commit>=3.7",
+  "pre-commit-hooks>=4.6",
+  "semgrep>=1.70",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
