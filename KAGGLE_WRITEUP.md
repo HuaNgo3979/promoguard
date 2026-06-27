@@ -83,7 +83,7 @@ Next: wire a live Pub/Sub topic to Agent Runtime and ship the FastAPI manager da
 approving paused high-value redemptions.
 
 ## 9. Submission artefacts
-- **Code:** `<your GitHub URL>` (see `docs/BUILD_GUIDE.md` to reproduce).
+- **Code:** https://github.com/HuaNgo3979/promoguard (see `docs/BUILD_GUIDE.md` to reproduce).
 - **Video:** `<your video URL>` — walkthrough of the three live demos (auto-approve, manager escalation, injection blocked).
 - **Rationale:** see `RATIONALE.md` (also summarised in §1–2 above).
 
