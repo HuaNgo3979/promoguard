@@ -250,7 +250,7 @@ python3 -c "import sys; sys.path.insert(0, '.'); from app.tools import reset_sta
 ```bash
 agents-cli eval eval/promoguard.evalset.json
 ```
-👉 Or prompt: `Evaluate promoguard against eval/promoguard.evalset.json and summarise the scores.`
+👉 Or **prompt to Antigravity**: `Evaluate promoguard against eval/promoguard.evalset.json and summarise the scores.`
 
 ---
 
