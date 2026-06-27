@@ -233,6 +233,16 @@ This tests a high-value promotion where the description contains prompt injectio
 }
 ```
 
+Reset Database State Command
+
+Use this terminal command inside the `promoguard` folder to reset the state whenever you want to run a fresh demo:
+
+👉 **Prompt to Antigravity:** 
+
+```
+python3 -c "import sys; sys.path.insert(0, '.'); from app.tools import reset_state; reset_state(); print('State file cleaned successfully!')"
+```
+
 ---
 
 ## 12. Evaluate with agents-cli (LLM-as-judge)
