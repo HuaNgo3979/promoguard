@@ -10,15 +10,11 @@ deadline **July 6, 2026, 11:59 PM PT**.
 | Kaggle writeup documenting the agent | `KAGGLE_WRITEUP.md` | ✅ done — paste into the Kaggle writeup editor |
 | Video explaining the agent | `PromoGuard_video_slides.pptx` + `docs/VIDEO_SCRIPT.md` | ⬜ **you record** (~3 min) and add the URL |
 | Brief rationale | `RATIONALE.md` (also writeup §1–2) | ✅ done |
-| Link to your code | repo via `push_to_github.sh` | ⬜ **you push**, then paste URL |
+| Link to your code | repo via `push_to_github.sh` | ✅ done |
 | ≥3 course concepts | writeup §4 (shows 5) | ✅ done |
 | Track selected | Agents for Business | ✅ |
 
-## The only two things left for you
-1. **Push the code** → get the URL
-   ```bash
-   # edit GH_USER in push_to_github.sh first, create an empty GitHub repo named "promoguard"
-   bash push_to_github.sh
+## The only one things left for you
    ```
 2. **Record the video** → get the URL
    - Open `PromoGuard_video_slides.pptx`, present full-screen.
