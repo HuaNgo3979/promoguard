@@ -10,7 +10,7 @@ is instant and free of LLM cost) and reserves a Gemini risk review plus a human-
 manager decision for the genuinely ambiguous, high-value cases — with PII scrubbed and prompt
 injection short-circuited before the model ever runs. It's a real enterprise problem with
 measurable dollar impact, it maps directly onto the retail shopping-assistant and
-ambient-expense patterns taught in the course, and it naturally demonstrates the required
+ambient-expense patterns, and it naturally demonstrates the required
 concepts: an ADK 2.0 graph workflow, validated agent tools, a custom STRIDE skill, layered
 security (PII + injection + Semgrep pre-commit gating), and agents-cli evaluation.
 
