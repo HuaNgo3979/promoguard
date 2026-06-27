@@ -15,7 +15,6 @@ deadline **July 6, 2026, 11:59 PM PT**.
 | Track selected | Agents for Business | ✅ |
 
 ## The only one things left for you
-   ```
 2. **Record the video** → get the URL
    - Open `PromoGuard_video_slides.pptx`, present full-screen.
    - Read `docs/VIDEO_SCRIPT.md` (timed, ~3 min).
