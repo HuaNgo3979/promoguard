@@ -41,8 +41,8 @@ agents-cli eval eval/promoguard.evalset.json
 
 ## Submitting (Kaggle)
 See **[SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md)**. Record using
-**[docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)** (~5:30 min, timed), [slide/PromoGuard_video_slides.pptx](docs/PromoGuard_video_slides.pptx) and publish the code with
-`push_to_github.sh`.
+**[docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)** (~5:30 min, timed), **[slide/PromoGuard_video_slides.pptx](docs/PromoGuard_video_slides.pptx)** and publish the code with
+`push_to_github.sh` on Github: https://github.com/HuaNgo3979/promoguard.git
 
 ## Build it yourself (vibe coding)
 See **[docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md)** for the full Antigravity / Antigravity IDE /
