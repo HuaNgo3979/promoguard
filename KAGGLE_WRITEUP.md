@@ -84,7 +84,7 @@ approving paused high-value redemptions.
 
 ## 9. Submission artefacts
 - **Code:** https://github.com/HuaNgo3979/promoguard (see `docs/BUILD_GUIDE.md` to reproduce).
-- **Video:** `<your video URL>` — walkthrough of the four live demos (auto-approve, manager escalation, injection duplicated, injection blocked).
+- **Video:** https://youtu.be/U7rQ7wWo4Wg — walkthrough of the four live demos (auto-approve, manager escalation, injection duplicated, injection blocked).
 - **Rationale:** see `RATIONALE.md` (also summarised in §1–2 above).
 
 *Not affiliated with Coles, Woolworths, Flybuys, or Everyday Rewards; names used illustratively.*
