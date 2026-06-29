@@ -41,7 +41,7 @@ agents-cli eval eval/promoguard.evalset.json
 
 ## Submitting (Kaggle)
 See **[SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md)**. Record using
-**[docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)** (~5:30 min, timed), [slide/PromoGraud_video_slides.pptx](docs/PromoGraud_video_slides.pptx) and publish the code with
+**[docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)** (~5:30 min, timed), [slide/PromoGuard_video_slides.pptx](docs/PromoGuard_video_slides.pptx) and publish the code with
 `push_to_github.sh`.
 
 ## Build it yourself (vibe coding)
